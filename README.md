@@ -1,5 +1,7 @@
 # GTX-RTEMU-bin-patch 5.4.3
 
+Click the Green button about to get a zipped format and restore to  Engine\Binaries\Win64\UnrealEditor-D3D12RHI.dll overwrite
+
 Solved : Cant Enable RayTracing in UE5 (gtx 1060)(Nvidia Pascal)
 
 at [Epic Forum page](https://forums.unrealengine.com/t/solved-cant-enable-raytracing-in-ue5-gtx-1060-nvidia-pascal/231479/127)
