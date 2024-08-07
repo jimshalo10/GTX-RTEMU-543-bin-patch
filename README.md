@@ -4,7 +4,9 @@ Click the Green button above select "Download Zip" to get a zipped format and re
 
 Engine\Binaries\Win64\UnrealEditor-D3D12RHI.dll overwrite
 
-Make sure you have changed the contol files as described in the Epic Forum Thread
+The patched control file is in this package Engine\Config\Console.ini
+
+Make sure you have changed the contol files as described in the Epic Forum Thread correctly
 
 Solved : Cant Enable RayTracing in UE5 (gtx 1060)(Nvidia Pascal)
 
