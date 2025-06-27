@@ -27,10 +27,11 @@ C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\Win64\UnrealEditor-D3D12RHI.d
 Please note than all minor versions go into the directory above
 
 
-LEGAL STUFF
+**LEGAL STUFF
 If you use this patch there is NO WARRANTY NO SUPPORT and NO LIABILITY BY EPIC AND ANY OTHER PARTIES
-Your installation of 5.4 binary will not be production
+Your installation of 5.4 or 5.6 binary will not be production**
 
+_Changes made to make 5.6 work_
 
 The first change was to add the ability to use the variable DXR_ALLOW_EMULATED_RAYTRACING in the WindowsD3D12Device.cpp file.
 I’m not making games and just using the path tracer to make images, so i set this to be on by default so i wouldn’t have to edit anything in the ConsoleVariables.ini file. After compiling it (thankfully it took only a few seconds to compile) Unreal ran, but i wasn’t getting any ray tracing. Checking the Output Log, and searching for ‘D3d12’ i saw :
