@@ -1,4 +1,4 @@
-# GTX-RTEMU-bin-patch 5.4.3
+# GTX-RTEMU-bin-patch 5.4.3 and 5.6 release
 
 Click the Green button above scroll to bottom select "Download Zip" to get a zipped format and restore to C:\Program Files\Epic Games\UE_5.4
 
@@ -13,6 +13,18 @@ Make sure you have changed the contol files as described in the Epic Forum Threa
 Solved : Cant Enable RayTracing in UE5 (gtx 1060)(Nvidia Pascal)
 
 at [Epic Forum page](https://forums.unrealengine.com/t/solved-cant-enable-raytracing-in-ue5-gtx-1060-nvidia-pascal/231479/127)
+
+**Update for 5.6**
+
+Click the Green button above scroll to bottom select "Download Zip" to get a zipped format and restore to C:\Program Files\Epic Games\UE_5.6
+
+C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\Win64\UnrealEditor-D3D12RHI.dll overwrite
+
+Now take the file from sub-directory UE56\UnrealEditor-D3D12RHI.dll and using Windows File Explorer copy and paste/place in the directory
+
+C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\Win64\UnrealEditor-D3D12RHI.dll overwrite
+
+Please note than all minor versions go into the directory above
 
 
 LEGAL STUFF
